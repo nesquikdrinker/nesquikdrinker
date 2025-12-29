@@ -1,16 +1,24 @@
-## Hi there 👋
+# ⚡ Hey there, I'm nesquik 🧃
 
-<!--
-**nesquikdrinker/nesquikdrinker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ☁️ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Learning how to code 😪
+
+---
+
+### 🛠️ Toolbox
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C#` `Python` `JavaScript` `Java` |
+| **Frontend** | `React` |
+| **Backend** | `Node.js` |
+| **Herramientas** | `Git` `Vercel` |
+
+---
+
+### 📫 More info
+<p align="center">
+<a href="https://www.youtube.com/@VertixGM"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white" /></a>  
+</p>
