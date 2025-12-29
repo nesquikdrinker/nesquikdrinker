@@ -7,7 +7,6 @@
 * 🌱 Learning how to code 😪
 
 ---
-
 ### 🛠️ Toolbox
 | Category | Technologies |
 | :--- | :--- |
@@ -15,7 +14,6 @@
 | **Frontend** | `React` |
 | **Backend** | `Node.js` |
 | **Herramientas** | `Git` `Vercel` |
-
 ---
 
 ### 📫 More info
